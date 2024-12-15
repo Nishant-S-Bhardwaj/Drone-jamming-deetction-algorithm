@@ -9,4 +9,4 @@ The model workflow:
 *Evaluation:  Comparing the performance of both models based on metrics like accuracy, precision, recall, and F1-score.
 *Real-time Detection:  Deploying the trained model to monitor drone communication channels in real-time and flagging potential jamming incidents.
 
-Due to licensing restrictions, the dataset used for model training and evaluation is not included in this repository. Users are encouraged to use their own datasets or publicly available alternatives that comply with licensing requirements." kbiufbeunvewnvenv
+Due to licensing restrictions, the dataset used for model training and evaluation is not included in this repository. Users are encouraged to use their own datasets or publicly available alternatives that comply with licensing requirements.
