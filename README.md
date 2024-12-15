@@ -3,7 +3,7 @@ This repository implements machine learning models, including Multi-Layer Percep
 
 The model workflow:
 
-*Data Preprocessing:  Collection and cleaning of signal datasets, including normalization and feature extraction.
+*Data Preprocessing:  Collection and cleaning of signal datasets, including normalization and feature extractioon.
 *Feature Engineering:  Extraction of critical features from communication signals, such as signal strength, frequency variations, and noise patterns.
 *Model Training:  Training MLP and Decision Tree models on processed datasets to identify patterns associated with jamming attacks.
 *Evaluation:  Comparing the performance of both models based on metrics like accuracy, precision, recall, and F1-score.
